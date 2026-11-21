@@ -1,0 +1,1 @@
+{"chain":"robinhood","token":"0x30768B5482e5dd8a2487cE0BE61E01fA03Af37ff","symbol":"BULL","test":{"amountIn":"1000000000000000","gas":"ETH","buyOk":true,"sellOk":true,"buyTaxPct":0,"sellTaxPct":0,"roundTripPct":-2.03,"why":null},"creatorPct":0.1891,"top10Pct":null,"verdict":"ok","notes":[],"checkedAt":1795223028}

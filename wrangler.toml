@@ -1,0 +1,8 @@
+name = "stoa-quote-bot"
+main = "worker.js"
+compatibility_date = "2026-11-21"
+
+# WEBHOOK_SECRET is set in the dashboard (Settings > Variables and
+# Secrets) or with: wrangler secret put WEBHOOK_SECRET
+# It must match the secret_token used when registering the webhook
+# with Telegram's setWebhook.
