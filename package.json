@@ -1,1 +1,14 @@
-{"description":"Stoa Quote Bot — webhook edition on Cloudflare Workers","name":"stoa-quote-bot-webhook","private":true,"type":"module","version":"1.0.0"}
+{
+  "description": "Stoa Quote Bot \u2014 webhook edition on Cloudflare Workers",
+  "name": "stoa-quote-bot-webhook",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
